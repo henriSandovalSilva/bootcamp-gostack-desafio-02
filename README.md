@@ -2,7 +2,12 @@
 
 ## O que aprendi nesse módulo?
 
-- [x] Example
+- [x] Nodemon & Sucrase
+- [x] Sequelize & MVC
+- [x] ESLint, Prettier & EditorConfig
+- [x] Migrations
+- [x] Autenticação JWT
+- [x] Validação de dados com Yup
 
 ## O desafio
 
